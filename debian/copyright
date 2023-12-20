@@ -47,7 +47,7 @@ Files: debian/*
 Copyright: 2002-2003, Ardo van Rangelrooij <ardo@debian.org>
  2003-2009, Krzysztof Krzyżaniak (eloy) <eloy@debian.org>
  2005, Marcelo E. Magallon <mmagallo@debian.org>
- 2006-2021, gregor herrmann <gregoa@debian.org>
+ 2006-2023, gregor herrmann <gregoa@debian.org>
  2006, Andreas Barth <aba@not.so.argh.org>
  2006-2008, Niko Tyni <ntyni@debian.org>
  2007, David Paleino <d.paleino@gmail.com>

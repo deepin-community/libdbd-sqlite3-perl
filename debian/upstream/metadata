@@ -1,5 +1,6 @@
 ---
 Archive: CPAN
-Bug-Database: https://rt.cpan.org/Public/Dist/Display.html?Name=DBD-SQLite
+Bug-Database: https://github.com/DBD-SQLite/DBD-SQLite/issues
+Bug-Submit: https://github.com/DBD-SQLite/DBD-SQLite/issues/new
 Repository: https://github.com/DBD-SQLite/DBD-SQLite.git
 Repository-Browse: https://github.com/DBD-SQLite/DBD-SQLite

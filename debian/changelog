@@ -1,3 +1,33 @@
+libdbd-sqlite3-perl (1.74-1) unstable; urgency=medium
+
+  * Import upstream version 1.74.
+  * Bump versioned build dependency on libsqlite3-dev to stay in sync with
+    shipped (unused) sqlite version.
+  * Update years of packaging copyright.
+  * Declare compliance with Debian Policy 4.6.2.
+
+ -- gregor herrmann <gregoa@debian.org>  Fri, 29 Sep 2023 00:43:01 +0200
+
+libdbd-sqlite3-perl (1.72-1) unstable; urgency=medium
+
+  * Team upload
+
+  * Import upstream version 1.72.
+  * Drop 0001-Tweak-for-3.37.0.patch, now part of current upstream version
+  * Bump versioned build dependency on libsqlite3-dev, following upstream update
+  * Declare compliance with Debian Policy 4.6.1
+
+ -- Florian Schlichting <fsfs@debian.org>  Sat, 26 Nov 2022 22:45:03 +0100
+
+libdbd-sqlite3-perl (1.70-3) unstable; urgency=medium
+
+  * Add patch from upstream Git repo: tweak test for SQLite 3.37.0.
+    (Closes: #1003127)
+  * Update debian/upstream/metadata.
+  * Update years of packaging copyright.
+
+ -- gregor herrmann <gregoa@debian.org>  Tue, 04 Jan 2022 18:02:44 +0100
+
 libdbd-sqlite3-perl (1.70-2) unstable; urgency=medium
 
   * Fix FTCBFS: Set ARCHLIB for the host architecture.
