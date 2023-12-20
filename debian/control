@@ -11,10 +11,10 @@ Priority: optional
 Build-Depends: debhelper-compat (= 13),
                dh-sequence-perl-dbi,
                libdbi-perl <!nocheck>,
-               libsqlite3-dev (>= 3.36.0~),
+               libsqlite3-dev (>= 3.42.0~),
                perl-xs-dev,
                perl:native
-Standards-Version: 4.6.0
+Standards-Version: 4.6.2
 Vcs-Browser: https://salsa.debian.org/perl-team/modules/packages/libdbd-sqlite3-perl
 Vcs-Git: https://salsa.debian.org/perl-team/modules/packages/libdbd-sqlite3-perl.git
 Homepage: https://metacpan.org/release/DBD-SQLite
